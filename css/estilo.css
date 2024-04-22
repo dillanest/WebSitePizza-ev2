@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family:'Courier New', Courier, monospace;
     margin: 0;
 }
 /*----------------Estilos Base------------------*/
@@ -39,7 +39,7 @@ h1,h2,h3,h4,h5{
     font-size: 1.9em;
     color: #de423a;
     padding: 10px;
-    font-family: 'Sacramento', cursive;
+    font-family:'Courier New', Courier, monospace;
         
 }
 .main-header__contactInfo__phone{
@@ -184,7 +184,7 @@ h1,h2,h3,h4,h5{
 .main__title{
 	margin: 15px 0;
 	font-size: 2.8em;
-	font-family: 'Sacramento',cursive;
+	font-family:'Courier New', Courier, monospace;
 	
 }
 .column__title{
@@ -206,7 +206,7 @@ h1,h2,h3,h4,h5{
 	
 }
 .group__title{
-	font-family:'Sacramento',cursive;
+	font-family:'Courier New', Courier, monospace;
 	text-align: center;
 	font-weight: bold;
 	font-size: 1.8em;
